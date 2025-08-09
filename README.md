@@ -2,6 +2,8 @@
    <img width="768" height="768" alt="Satellite" src="https://github.com/user-attachments/assets/36eb0eb9-4e3e-4b7e-b065-11105dfbef58" />
 </p>
 
+<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/a03063ab-5834-437d-846d-acc130d903ab" /> [English version](README_en.md)
+
 # 🛰️ Satellite GPS – ComputerCraft
 
 ## 📖 Présentation
